@@ -1,5 +1,5 @@
 
-# 🧠 Django New Website Cheat Sheet
+# 🧠 Django New Website Boilerplate
 
 ## 🚀 Project Setup
 ```bash
